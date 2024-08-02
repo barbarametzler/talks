@@ -22,7 +22,7 @@ format:
 
 
 ---
-title: "EuroFab Progress Meeting"
+title: "AI model for urban fabric"
 author: "Barbara Metzler"
 date: "02/08/2024"
 ---
@@ -30,7 +30,7 @@ date: "02/08/2024"
 # Overview
 
 * **AI model design:** June-October 2024
-* **AI Model development and training:** September-November 2024
+* **AI model development and training:** September-November 2024
 * **European space-time urban strategy:** December-March 2025
 
 
